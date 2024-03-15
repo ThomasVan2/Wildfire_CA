@@ -35,3 +35,11 @@ Link: https://mybinder.org/v2/gh/ThomasVan2/Wildfire_CA/HEAD
 
 ## Data Source
 The data for this project comes from Kaggle, including details on fire incidents across California from 2013-2020.
+
+
+## Interactive Demo
+
+Experience the interactive aspect of the project:
+
+![FireData ipynb-JupyterLab-GoogleChrome2024-03-1510-32-05-ezgif com-video-to-gif-converter](https://github.com/ThomasVan2/Wildfire_CA/assets/128740390/f0f50a16-689f-4483-91e0-f648ece0d46e)
+
