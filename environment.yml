@@ -1,0 +1,14 @@
+name: Wildfire_App
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9  # or any specific version you need
+  - pandas
+  - matplotlib
+  - plotly
+  - seaborn
+  - geopandas
+  - scikit-learn
+  - ipywidgets
+  - panel
+  - requests
